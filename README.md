@@ -1,6 +1,7 @@
-Full Width Media Background Demo
+=== Full Width Media Background Demo ===
 Author: Lucy Lamp
 Author URI: http://www.lucylamp.com
+
 Video and image copyright Lucy Lamp.
 
 Creating media backgrounds using CSS only
